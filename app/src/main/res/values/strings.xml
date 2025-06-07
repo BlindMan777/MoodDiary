@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoodDiary</string>
+    <string name="calendar">Calendar</string>
+    <string name="advices">Advices</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+</resources>
